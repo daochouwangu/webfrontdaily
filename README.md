@@ -1,1 +1,9 @@
-# webfrontdaily
+# 前端日报
+
+每日分享前端文章及资讯
+
+具体文章查看issue
+
+请大家不要发布新的issue
+
+欢迎star :)
